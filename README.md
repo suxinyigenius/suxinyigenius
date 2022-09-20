@@ -21,7 +21,8 @@
 -Upon opening the html file in the browser,there will be a set of basic instructions on how to alter objects on the screen and move the camera around the world space.The axes of the world are located and displayed at the origin,and part of the jointed platform also have their own 3D axes,which rotates with the attached object.<br>
 
 <h3><a href="https://suxinyigenius.github.io/ProjectC/ProjectC/">3. Colorful Lighting Wolrd </a></h3>
--The goal of this project was to create a world the user can explore with different lighting/shading methods illuminating the shapes. The objects of the world would rest on a ground plane surface and each have individual normal that reflected the light from both a user-adjustable light source and a headlight attached to the camera. 
+-The goal of this project was to create a world the user can explore with different lighting/shading methods illuminating the shapes. The objects of the world would rest on a ground plane surface and each have individual normal that reflected the light from both a user-adjustable light source and a headlight attached to the camera. <br>
+-Users are able to switch light on/off,shading methods,lighting methods,light poistions, and view positions.Alos, different materials are being used.
 
 
 
