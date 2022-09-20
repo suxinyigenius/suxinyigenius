@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Xinyi Su Welcome to my github! 🤗
 
 
-[![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)(https://github.com/suxinyigenius/suxinyigenius)]
+![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)
 
 - 🎓  Master's Student in Electrical Engineering at Northwestern University
 - ✍️  Javascipt / HTMl / CSS
