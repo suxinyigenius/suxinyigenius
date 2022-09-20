@@ -11,10 +11,10 @@
  
 <h2>Here are some projects link 📖 </h2>
 <h3><a href="https://suxinyigenius.github.io/Project%20A/">A Little Robot and His Tree Friend </a></h3>
--This project demonstrates a scene about a little robot and his tree friend. Basically, I use cubes and tetrahedrons to design. Each vertex has a different color.
--The current angle of the robot and his tree friends can be displayed on canvas. Also, users can enter a new current angle to change the degree.
--Users can use the mouse to click/drag the small house on the upper right of the canvas. Users can see the mouse coordinate and mouse drag as well.
--The robot and his tree friend can keep spinning, users are able to use the keyboard to move them. For example, users can use WASD navigation and arrow keys to move them to go left, right, back, and FWD.
+-This project demonstrates a scene about a little robot and his tree friend. Basically, I use cubes and tetrahedrons to design. Each vertex has a different color.<br>
+-The current angle of the robot and his tree friends can be displayed on canvas. Also, users can enter a new current angle to change the degree.<br>
+-Users can use the mouse to click/drag the small house on the upper right of the canvas. Users can see the mouse coordinate and mouse drag as well.<br>
+-The robot and his tree friend can keep spinning, users are able to use the keyboard to move them. For example, users can use WASD navigation and arrow keys to move them to go left, right, back, and FWD.<br>
 
 
 
