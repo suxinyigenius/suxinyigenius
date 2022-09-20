@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Xinyi Su  
-<h1>Welcome to my Github! 🤗</h1>
+<h2>Welcome to my Github! 🤗</h2>
 
 
 ![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)
