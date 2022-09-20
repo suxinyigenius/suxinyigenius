@@ -24,7 +24,7 @@
 -The goal of this project was to create a world the user can explore with different lighting/shading methods illuminating the shapes. The objects of the world would rest on a ground plane surface and each have individual normal that reflected the light from both a user-adjustable light source and a headlight attached to the camera. <br>
 -Users are able to switch light on/off,shading methods,lighting methods,light poistions, and view positions.Alos, different materials are being used.
 
-<h3><a href="https://suxinyigenius.github.io/tenzies/">4.Tenzies Dice Game created with React </a></h3>
+<h3><a href="https://suxinyigenius.github.io/tenzies/">4. Tenzies Dice Game created with React </a></h3>
 -Create ten dice using React Hooks, each with a random number between one and six inclusive<br>
 -Freeze all dice of the selected number as the current value and change the background color to highlight, continue to roll other dice until the dice are all the same value <br>
 -End the game and use react-confetti to show congratulation style, then click the new game button to start a new game
