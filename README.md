@@ -4,6 +4,7 @@
 
 ![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)
 ![Javascript](https://img.shields.io/badge/Javascript-fluent-success)
+![React](https://img.shields.io/badge/React-famework-lightgrey)
 
 - 🎓  Master's Student in Electrical Engineering at Northwestern University
 - ✍️  Javascipt / HTMl / CSS
