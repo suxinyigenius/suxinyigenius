@@ -3,7 +3,7 @@
 
 
 ![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)
-(https://img.shields.io/badge/Javascript-fluent-success)
+![Javascript](https://img.shields.io/badge/Javascript-fluent-success)
 
 - 🎓  Master's Student in Electrical Engineering at Northwestern University
 - ✍️  Javascipt / HTMl / CSS
