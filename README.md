@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Xinyi Su Welcome to my github! 🤗
+### Hi there 👋 I'm Xinyi Su 😃 Welcome to my Github! 🤗
 
 
 ![GitHub](https://img.shields.io/badge/Github-SXY-C9BAD7)
