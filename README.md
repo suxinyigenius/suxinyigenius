@@ -29,8 +29,15 @@
 -Freeze all dice of the selected number as the current value and change the background color to highlight, continue to roll other dice until the dice are all the same value <br>
 -End the game and use react-confetti to show congratulation style, then click the new game button to start a new game
 
-<h3><a href="https://suxinyigenius.github.io/Coursera-Web/assignment2/">5. Shopping List Check Off</a></h3>
-- Create a list to check the things user wants to buy and already bought
+<h3><a href="https://suxinyigenius.github.io/590/public/index.html">5.Image color picker </a></h3>
+● Upload a selected image and scales it, extract image data and statistical color information using
+Javascript
+● Traverse all pixels, count the number of times each color appears and filter out the isolated color to
+make the project more efficient and save the rest of the colors’ information in an array
+● Compute the main color of the image by sorting the array in descending order and the average color is
+calculated by dividing each R, G, and B total value by the total number of colors that appears
+● Compute dominant colors of the remaining colors by the K-Means algorithm using RGB value and the
+number of color occurrences
 
 
 <h3><a href="https://suxinyigenius.github.io/Coursera-Web/assignment3/">6. Search specific dishes from restaurant menu </a></h3>
